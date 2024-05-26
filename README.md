@@ -20,3 +20,11 @@ You can install Rootify from PyPI:
 ```sh
 pip install rootify
 ```
+
+### How to use
+
+Simply put 
+```python
+import rootify
+```
+at the beginning of a file, now it will run relative to the root.
