@@ -36,3 +36,14 @@ Install Rootify from PyPI:
 
 ```sh
 pip install rootify
+
+```
+## How to use
+
+simply put:
+```python
+import rootify
+```
+
+
+
